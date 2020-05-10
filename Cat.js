@@ -5,6 +5,7 @@ function name(params) {
       console.log(index);
       console.log(2);
       //bass
+        console.log("i'm cat");
         
     }
 }
