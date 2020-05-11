@@ -1,4 +1,6 @@
+
 function Cat(params) {
+
     console.log('abs');
     console.log('2222222');
     for (let index = 0; index < 10; index++) {
@@ -6,8 +8,7 @@ function Cat(params) {
       console.log(2);
       //bass
         console.log("i'm cat");
-        console.log(12312312312);
-                
+        console.log(12312312312);        
     }
 }
 
