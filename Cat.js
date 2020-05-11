@@ -6,6 +6,8 @@ function name(params) {
       console.log(2);
       //bass
         console.log("i'm cat");
-        
+        console.log(12312312312);
+                
     }
 }
+
